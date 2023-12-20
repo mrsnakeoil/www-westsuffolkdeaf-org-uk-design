@@ -25,20 +25,20 @@ Todo:
 
 # Proposal: Website for The Charity
 
-Charity Number: ==<Charity Number Here>==
+Charity Number: ==Charity Number Here==
 
 
 
 ## Charity Background & Goals
 
-==<Charity Name Here>== is a chartity that blah blah...
+==Charity Name Here== is a chartity that blah blah...
 
 
 
 ## Terms
 
-- **The Charity**: ==<Charity Name Here>== ('==<Charity Number Here>==')
-- **Trustees**: The Charity's trustees as defined by the Charities Act 2011 and made available by the Charities Commision here. ==<'here' is linked to Charity Commission site listing truestees>==
+- **The Charity**: ==Charity Name Here== ('==Charity Number Here==')
+- **Trustees**: The Charity's trustees as defined by the Charities Act 2011 and made available by the Charities Commision here. =='here' is linked to Charity Commission site listing truestees==
 - **The Website**: The item to be delivered by the proposal if approved and delivered.
 - **Feature**: A part of the website including any backend system and related user process.
 - **Comittee User**:
@@ -56,7 +56,7 @@ This document will detail the scope, design and functionality of a Website for t
 
 Before any deveopment can start this docment needs to be completed and approved by all trustees.
 
-==<bullet points of trustees here>==
+==bullet points of trustees here==
 
 ## Design Principals
 
