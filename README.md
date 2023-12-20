@@ -23,22 +23,22 @@ Todo:
 
 
 
-# Proposal: Website for West Suffolk Deaf Childrens Society
+# Proposal: Website for The Charity
 
-Charity Number: 288732
+Charity Number: ==<Charity Number Here>==
 
 
 
 ## Charity Background & Goals
 
-West Suffolk Deaf Childrens Society is a chartity that blah blah...
+==<Charity Name Here>== is a chartity that blah blah...
 
 
 
 ## Terms
 
-**The Charity**: West Suffolk Deaf Childrens Society ('288732')
-**Trustees**: The Charity's trustees as defined by the Charities Act 2011 and made available by the Charities Commision [here](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/288732/trustees).
+**The Charity**: ==<Charity Name Here>== ('==<Charity Number Here>==')
+**Trustees**: The Charity's trustees as defined by the Charities Act 2011 and made available by the Charities Commision here. ==<'here' is linked to Charity Commission site listing truestees>==
 **The Website**: The item to be delivered by the proposal if approved and delivered.
 **Feature**: A part of the website including any backend system and related user process.
 **Comittee User**:
@@ -56,11 +56,7 @@ This document will detail the scope, design and functionality of a Website for t
 
 Before any deveopment can start this docment needs to be completed and approved by all trustees.
 
-Tracy Pym-Hember
-Kelly Outlaw
-Harriet Lowe
-Chloe Clayton-Green
-Adam Barton 
+==<bullet points of trustees here>==
 
 ## Design Principals
 
