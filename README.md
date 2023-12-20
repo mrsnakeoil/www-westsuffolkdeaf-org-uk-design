@@ -37,12 +37,12 @@ Charity Number: ==<Charity Number Here>==
 
 ## Terms
 
-**The Charity**: ==<Charity Name Here>== ('==<Charity Number Here>==')
-**Trustees**: The Charity's trustees as defined by the Charities Act 2011 and made available by the Charities Commision here. ==<'here' is linked to Charity Commission site listing truestees>==
-**The Website**: The item to be delivered by the proposal if approved and delivered.
-**Feature**: A part of the website including any backend system and related user process.
-**Comittee User**:
-**Charity Member**:
+- **The Charity**: ==<Charity Name Here>== ('==<Charity Number Here>==')
+- **Trustees**: The Charity's trustees as defined by the Charities Act 2011 and made available by the Charities Commision here. ==<'here' is linked to Charity Commission site listing truestees>==
+- **The Website**: The item to be delivered by the proposal if approved and delivered.
+- **Feature**: A part of the website including any backend system and related user process.
+- **Comittee User**:
+- **Charity Member**:
 
 
 
