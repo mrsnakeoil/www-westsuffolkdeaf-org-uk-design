@@ -1,12 +1,19 @@
 Todo:
 
 ☑ Create Document Strucutre
+
 ☐ Complete 'Charity Background & Goals'
+
 ☐ Complete High Level Requirements & Trustee Approval
+
 ☐ Complete Low Level Requirements  & Trustee Approval
+
 ☐ Choose candidate developer(s), create create technical & budget (CAPEX and OPEX)
+
 ☐ Final Trustee Approval 
+
 ☐ Development & Delivery
+
 ☐ Trustee Signoff of Delivery and Go-Life!
 
 
@@ -99,7 +106,6 @@ Blah blah.. new members can sign up.. .... truestees can validate member ship. b
 ## Low Level Requirements
 
 The high level requirements have been broken down into low level requirements so that the developer is clear on the *how* in addition to the *what* as defined in the High Level Requirements.
-
 
 
 
