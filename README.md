@@ -4,11 +4,15 @@ Todo:
 
 ☐ Complete 'Charity Background & Goals'
 
-☐ Complete High Level Requirements & Trustee Approval
+☐ Chose domain name www.thisbit.org.uk - order it to get it safe.
 
-☐ Complete Low Level Requirements  & Trustee Approval
+☐ Create Brand Style Guide (logo, colors, font)
 
-☐ Choose candidate developer(s), create create technical & budget (CAPEX and OPEX)
+☐ Complete High Level Requirements & get Trustee Approval
+
+☐ Complete Low Level Requirements  & get Trustee Approval
+
+☐ Choose candidate developer(s) (if not us), & budget for one off and ongoing costs (if any).
 
 ☐ Final Trustee Approval 
 
