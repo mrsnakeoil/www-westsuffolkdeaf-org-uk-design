@@ -14,7 +14,7 @@ Todo:
 
 ☐ Development & Delivery
 
-☐ Trustee Signoff of Delivery and Go-Life!
+☐ Trustee Signoff of Delivery and Go-Live!
 
 
 
