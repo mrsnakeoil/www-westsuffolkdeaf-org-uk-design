@@ -37,7 +37,7 @@ Charity Number: ==Charity Number Here==
 
 ==Charity Name Here== is a chartity that blah blah...
 
-
+Action Kelly to send Adam a link to the words that were used for the WSDCS Co-Op promotional page
 
 ## Terms
 
@@ -95,11 +95,15 @@ The following high level requirements have been identified but The Charity Trust
 
 A website MUST be available at an easily recognised URL (http:// ....) to give the charity an online presence and to act as the entry point for members, and the public.
 
-### **Requirement x: Member Area**
+### **Requirement 2: Member Area**
 
 Blah blah ... post private content... blah blah
 
-### **Requirement x: Member Sign Up
+### Requirement 3: Member Sign Up
+
+Blah blah.. new members can sign up.. .... truestees can validate member ship. blah blah
+
+### Requirement 4: Members can view events and manage signup online
 
 Blah blah.. new members can sign up.. .... truestees can validate member ship. blah blah
 
